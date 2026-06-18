@@ -1,0 +1,11 @@
+Replace the starter content with a link-in-bio page. Here's what I want:
+- Make the links page the home route
+- Centered card layout, mex-wdith 40px, mobile-first
+- My name (Jessica Arlich) as a heading with a short headline underneath
+- A circular photo placeholder
+- Stacked link buttons for: Portfolio, LinkedIn, Email
+- Light mode by default
+- Smooth hover animations on the buttons
+- Use Google font: Space Grotesk
+- Use off-black text and orange accents
+- Clean up any starter files or components I don't need
