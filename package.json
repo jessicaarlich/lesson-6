@@ -1,0 +1,7 @@
+{
+  "name": "lesson-6-root",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix vue-app install && npm --prefix vue-app run build"
+  }
+}
