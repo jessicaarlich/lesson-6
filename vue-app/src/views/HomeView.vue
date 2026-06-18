@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import { RouterLink } from 'vue-router'
+</script>
+
 <template>
   <main class="page-shell">
     <section class="card">
@@ -13,6 +17,7 @@
         <a class="link-button" href="https://example.com/portfolio" target="_blank" rel="noopener noreferrer">Portfolio</a>
         <a class="link-button" href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         <a class="link-button" href="mailto:jessica@example.com">Email</a>
+        <RouterLink class="link-button" to="/about">About</RouterLink>
       </nav>
     </section>
   </main>
